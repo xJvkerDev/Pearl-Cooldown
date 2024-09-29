@@ -1,0 +1,5 @@
+name: HCF-PearlCooldown
+version: 1.0.0
+author: xjvkerdevv_
+api: [5.0.0]
+main: xjvkerdevv\Plugin\Main
